@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\bin\Debug\Soma.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\bin\Debug\Soma.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\bin\Debug\Soma.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.frmSoma.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Soma\Soma\obj\Debug\Soma.pdb
