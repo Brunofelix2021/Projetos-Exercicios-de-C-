@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculdora.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

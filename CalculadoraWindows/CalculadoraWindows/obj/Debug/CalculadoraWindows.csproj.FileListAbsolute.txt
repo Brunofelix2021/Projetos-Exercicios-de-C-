@@ -1,0 +1,12 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.FrnCalculadora.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
+C:\Users\Bruno\Desktop\pen drive\EXERCICIOS VISUAL STUDIO ESTEVAM\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\Bruno\Desktop\pen drive\EXERCICIOS VISUAL STUDIO ESTEVAM\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\Bruno\Desktop\pen drive\EXERCICIOS VISUAL STUDIO ESTEVAM\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
