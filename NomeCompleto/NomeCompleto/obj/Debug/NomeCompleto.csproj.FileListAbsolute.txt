@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.FfmNomeCompleto.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.pdb

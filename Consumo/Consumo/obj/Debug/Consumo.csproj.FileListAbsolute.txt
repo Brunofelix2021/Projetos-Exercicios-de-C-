@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\bin\Debug\Consumo.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.FrmConsumo.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\bin\Debug\Consumo.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\bin\Debug\Consumo.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\Consumo\Consumo\obj\Debug\Consumo.pdb

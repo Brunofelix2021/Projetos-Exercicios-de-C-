@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\bin\Debug\ContadorX2.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.Form1.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\bin\Debug\ContadorX2.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\bin\Debug\ContadorX2.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\ContadorX2\ContadorX2\obj\Debug\ContadorX2.pdb

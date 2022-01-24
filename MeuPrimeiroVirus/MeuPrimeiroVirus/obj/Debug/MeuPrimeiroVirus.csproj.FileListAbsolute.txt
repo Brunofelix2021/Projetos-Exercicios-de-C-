@@ -1,0 +1,9 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\bin\Debug\MeuPrimeiroVirus.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\bin\Debug\MeuPrimeiroVirus.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\bin\Debug\MeuPrimeiroVirus.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.csprojResolveAssemblyReference.cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.frmVirus.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\MeuPrimeiroVirus\MeuPrimeiroVirus\obj\Debug\MeuPrimeiroVirus.pdb

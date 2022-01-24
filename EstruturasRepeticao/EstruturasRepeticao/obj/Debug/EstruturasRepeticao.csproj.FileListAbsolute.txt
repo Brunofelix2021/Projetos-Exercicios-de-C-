@@ -1,0 +1,8 @@
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe.config
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.pdb
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.frmRepeticao.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.Properties.Resources.resources
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.GenerateResource.Cache
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.exe
+c:\users\bruno.fsouza4\documents\visual studio 2015\Projects\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.pdb
