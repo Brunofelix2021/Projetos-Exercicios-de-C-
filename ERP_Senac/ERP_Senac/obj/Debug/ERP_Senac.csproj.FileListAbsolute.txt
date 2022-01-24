@@ -1,0 +1,14 @@
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\bin\Debug\ERP_Senac.exe.config
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\bin\Debug\ERP_Senac.exe
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\bin\Debug\ERP_Senac.pdb
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.csprojResolveAssemblyReference.cache
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.frmLogin.resources
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.frmPrincipal.resources
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.Properties.Resources.resources
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.csproj.GenerateResource.Cache
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.exe
+c:\users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.pdb
+C:\Users\estevam.mfcampos\documents\visual studio 2015\Projects\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.frmUsuarios.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\PROJETOS SENAC ESTEVAM\ERP_Senac\ERP_Senac\bin\Debug\ERP_Senac.exe.config
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\PROJETOS SENAC ESTEVAM\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.exe
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\PROJETOS SENAC ESTEVAM\ERP_Senac\ERP_Senac\obj\Debug\ERP_Senac.pdb
